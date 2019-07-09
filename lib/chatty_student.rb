@@ -6,7 +6,7 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-    super
+    super           #inherits the first "Pick me!" from parent class Student
     puts "Pick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\n"
   end
 end
