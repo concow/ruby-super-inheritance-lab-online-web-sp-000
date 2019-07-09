@@ -5,6 +5,6 @@ class ChattyStudent
   end
 
   def raise_hand
-
+    "Pick me! Pick me! Pick me! Pick me! Pick me! Pick me! Pick me! Pick me! Pick me! Pick me!"
   end
 end
